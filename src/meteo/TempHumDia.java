@@ -26,13 +26,13 @@ public class TempHumDia extends TempDia {
 	  * Constructor con parametros de medicion 
 	  * Llama al constructor de la clase superior.
 	  * 
-	  * @param dia
-	  * @param mes
-	  * @param año
-	  * @param tMax
-	  * @param tMin
-	  * @param hMax
-	  * @param hMin
+	  * @param dia dia
+	  * @param mes mes
+	  * @param año año
+	  * @param tMax temperatura maxima
+	  * @param tMin temperatura minima
+	  * @param hMax humedad maxima
+	  * @param hMin humedad minima
 	  */
 	 public TempHumDia(int dia, int mes, int año, int tMax, int tMin, int hMax, int hMin) {
 		 super(dia, mes, año, tMax, tMin);

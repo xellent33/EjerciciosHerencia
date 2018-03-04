@@ -14,7 +14,7 @@ public class Main {
 	 * El metodo main del programa 
 	 * Un programa muy simple para testear el funcionamiento de las estaciones.
 	 * 
-	 * @param argv
+	 * @param argv No se esperan argumentos en este programa
 	 */
 public static void main (  String [] argv ){ 
         

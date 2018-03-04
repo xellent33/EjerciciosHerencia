@@ -29,11 +29,11 @@ public class TempDia {
 	/**
 	 * Este constructor recibe los valores de los parametros
 	 * 
-	 * @param dia
-	 * @param mes
-	 * @param año
-	 * @param tMax
-	 * @param tMin
+	 * @param dia dia
+	 * @param mes mes
+	 * @param año año
+	 * @param tMax temperatura maxima
+	 * @param tMin temperatura minima
 	 */
 	public TempDia(int dia, int mes, int año, int tMax, int tMin) {
 		this.año = año;

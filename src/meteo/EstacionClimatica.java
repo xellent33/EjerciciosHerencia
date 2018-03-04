@@ -105,10 +105,10 @@ public class EstacionClimatica
      * Método auxiliar que me indica si una fecha es correcta 
      * Esta primera version contiene unas restricciones muy laxas para definir una fecha correcta
      * 
-     * @param dia
-     * @param mes
-     * @param año
-     * @return
+     * @param dia dia
+     * @param mes mes 
+     * @param año año
+     * @return Devuelve true si la fecha es valida y false si no es valida
      */
     // 
     static boolean fechaOK ( int dia, int mes, int año){ 
